@@ -28,7 +28,7 @@ email: pumainthailand.com@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Описание
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bangkokfaq.ru/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pattayafaq.ru/" # the base hostname & protocol for your site, e.g. http://example.com
 
 lang: ru-RU
 encoding: utf-8
