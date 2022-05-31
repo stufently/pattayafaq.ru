@@ -1,19 +1,7 @@
 ---
-id: 31
-title: 'Какую сим карту купить в Паттайе?'
-date: '2019-10-26T14:31:54+00:00'
-author: serg
-layout: post
-guid: 'http://pattayafaq.ru/?p=31'
-permalink: /kakuju-sim-kartu-kupit-v-pattaje/
-categories:
-    - 'Интернет в Паттайе'
-tags:
-    - ais
-    - dtac
-    - SIM
-    - 'true'
-    - интернет
+question: Какую сим карту купить в Паттайе?
+ldjson: yes
+hashtag: kakuju-sim-kartu-kupit-v-pattaje
 ---
 
 Dtac, AIS или True.  
