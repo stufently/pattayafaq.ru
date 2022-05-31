@@ -7,8 +7,13 @@ hashtag: luchie-aqvaparki-pattay
 * [Ramayana water park](https://g.co/kgs/ugqXjV)
 
 
+Вас ждет посещение плавучего рынка и удовольствие от уникального природного ландшафта с зелеными холмами, водопадами, озерами и реками.
+
+
 * [Pattaya Water Park](https://g.co/kgs/5poYWF)
 
+Посетить для разнообразия можно, если есть свободное время! 
+С маленькими детками будет комфортно.
 
 * [Подводный мир Pattaya Co., Ltd.](https://g.co/kgs/NAaYhs)
 
