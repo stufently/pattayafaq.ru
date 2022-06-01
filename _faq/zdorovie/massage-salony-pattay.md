@@ -1,5 +1,5 @@
 ---
-question: лучшие массажные салоны Паттайи
+question: Лучшие массажные салоны Паттайи
 ldjson: yes
 hashtag: massage-salony-pattay
 ---
