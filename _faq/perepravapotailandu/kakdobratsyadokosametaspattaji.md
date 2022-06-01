@@ -1,7 +1,7 @@
 ---
-question: Как добраться до Косамета с Паттайи?
+question: Как добраться до Косамета из Паттайи?
 ldjson: yes
-hashtag: kak-dobratsya-do-kosameta-s-pattaji
+hashtag: kak-dobratsya-do-kosameta-iz-pattaji
 ---
 
  Добраться до Ко Самета можно на пароме или лодке. Они отправляются от пирсов, расположенных в деревне Ban Phe. Соответственно, попасть нужно сначала туда.
