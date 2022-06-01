@@ -1,5 +1,5 @@
 ---
-question: Какие магазины в Паттайе?
+question: Какие магазины есть в Паттайе?
 ldjson: yes
 hashtag: kakie-magaziny-v-pattaje
 ---
