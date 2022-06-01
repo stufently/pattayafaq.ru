@@ -15,8 +15,6 @@ hashtag: luchie-aqvaparki-pattay
 Посетить для разнообразия можно, если есть свободное время! 
 С маленькими детками будет комфортно.
 
-* [Подводный мир Pattaya Co., Ltd.](https://g.co/kgs/NAaYhs)
-
-
 * [Hero CIty Royal Garden Pattaya](https://g.co/kgs/4TkUc6)
 
+Торгово-развлекательный центр, с множеством развлечений и помимо аквапарка.
