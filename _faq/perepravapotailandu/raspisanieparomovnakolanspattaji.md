@@ -1,7 +1,7 @@
 ---
-question: Расписание паромов на Колан с Паттайи?
+question: Расписание паромов на Колан из Паттайи?
 ldjson: yes
-hashtag: raspisanie-paromov-na-kolan-s-pattaji
+hashtag: raspisanie-paromov-na-kolan-iz-pattaji
 ---
 
 Паромы ходят по двум маршрутам. Первый до пирса **Набан** (Na Baan Pier), второй до пляжа (Ta Waen Pier).
