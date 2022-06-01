@@ -1,7 +1,7 @@
 ---
-question: Как добраться до Пангана с Паттайи?
+question: Как добраться до Пангана из Паттайи?
 ldjson: yes
-hashtag: kak-dobratsya-do-pangana-s-pattaji
+hashtag: kak-dobratsya-do-pangana-iz-pattaji
 ---
 
 1. Автобус из Паттайи к пирсу Дон Сак возле города Сураттхани (370 км). И дальше на Пароме. 18 часов, 45-80$.
