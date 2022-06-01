@@ -1,7 +1,7 @@
 ---
 question: Как добраться до Косичанга из Паттайи?
 ldjson: yes
-hashtag: kak-dobratsya-do-kosichanga-s-pattaji
+hashtag: kak-dobratsya-do-kosichanga-iz-pattaji
 ---
 
 Первым делом необходимо добраться до города Сирача (Si Racha), это около 30 км от Паттайи.   
