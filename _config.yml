@@ -26,7 +26,8 @@ author: PumainThailand
 title: Faq
 email: pumainthailand.com@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Описание
+  Все что вы хотели узнать о кальянах, сигаретах,
+  одноразовых электронных сигаретых и iqos в Таиланде
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pattayafaq.ru/" # the base hostname & protocol for your site, e.g. http://example.com
 
