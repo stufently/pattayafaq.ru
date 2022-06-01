@@ -1,7 +1,7 @@
 ---
-question: Как добраться до Кокуда с Паттайи?
+question: Как добраться до Кокуда из Паттайи?
 ldjson: yes
-hashtag: kak-dobratsya-do-kokuda-s-pattaji
+hashtag: kak-dobratsya-do-kokuda-iz-pattaji
 ---
 
 Есть три варианта.
