@@ -1,7 +1,7 @@
 ---
-question: Как добраться до Колана с Паттайи?
+question: Как добраться до Колана из Паттайи?
 ldjson: yes
-hashtag: kak-dobratsya-do-kolana-s-pattaji
+hashtag: kak-dobratsya-do-kolana-iz-pattaji
 ---
 
 Остров Ко Лан (Ko Lan, Koh Larn) находится в 10-ти километрах от берегов Паттайи.
