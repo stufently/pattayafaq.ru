@@ -1,7 +1,7 @@
 ---
-question: Как добраться до Самуи с Паттайи?
+question: Как добраться до Самуи из Паттайи?
 ldjson: yes
-hashtag: kak-dobratsya-do-samui-s-pattaji
+hashtag: kak-dobratsya-do-samui-iz-pattaji
 ---
 
 Добраться можно тремя способами:  
