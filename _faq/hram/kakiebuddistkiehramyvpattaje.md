@@ -1,5 +1,5 @@
 ---
-question: Какие буддисткие храмы в Паттайе?
+question: Какие буддисткие храмы есть в Паттайе?
 ldjson: yes
 hashtag: kakie-buddistkie-hramy-v-pattaje
 ---
