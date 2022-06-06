@@ -4,6 +4,11 @@ ldjson: yes
 hashtag: gde-arendovat-sport-bajk-v-pattaje
 ---
 
+* [Pattayarenta bike](https://goo.gl/maps/aV63HDLKNk1Vivyx7)
+[Сайт](https://pattayarentacar.com/pattayarentabike) | [Номер телефона](tel:+66863329077)
+* [swiss bike](https://g.page/swissbike?share/)
+[Сайт](http://swiss-bike.com/) | [Номер телефона](tel:+66989672774)
+* [S.V. Bike Pattaya](https://goo.gl/maps/zHXZ2Xk6ZFuv5mt99)
+[Сайт](https://bicyclethailand.com/sv-bike-shop-in-chonburi/) | [Номер телефона](tel:+66819490843)
 
 
-[Yart](https://www.google.com.ua/maps/place/12%C2%B055'43.5%22N+100%C2%B052'34.6%22E/@12.9287487,100.876274,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=uk) предложит вашему вниманию Honda CBR-600 RR за 700 бат в день, Honda CBR-650 RR за 800 бат или «лимузин среди скутеров» — Honda Forza с объемом двигателя 250 или 350 «кубиков» — за 400 бат в день. Торг уместен. В качестве залога за большой байк Yart просит паспорт и 4000 бат, за Forza — копию паспорта и 3000 бат. Находится салон не доезжая 50 метров до Soi 13/3 первой Beach road. Позвонить хозяину можно по телефону [092-8530-836](tel:0928530836).
