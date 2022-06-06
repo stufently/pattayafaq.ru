@@ -19,11 +19,6 @@ hashtag: salony-krasoty-pattay
 
 Время работы: 10:00 - 22:00.
 
-### [Oasis Spa (Pattaya, Jomtien)](https://www.oasisspa.net/destination/pattaya/Pattaya_Jomtien/)
-[Номер](tel:+66 38 115 888) | [Сайт](https://www.oasisspa.net/destination/pattaya/Pattaya_Jomtien/)
-
-Oasis Spa – это не просто массажный салон, это максимально продуманный комплекс услуг для оздоровления и расслабления души и тела. Каждый салон продуман до мелочей, начиная от интерьера, заканчивая музыкой и программой спа процедур.
-
 ### [Spa Luxury Pattaya](https://maps.app.goo.gl/Cn7HyyaETvGKE2tL6)
 [Номер](tel:+66 85 234 7777) | [Сайт](http://www.7spaluxury.com/)
 
