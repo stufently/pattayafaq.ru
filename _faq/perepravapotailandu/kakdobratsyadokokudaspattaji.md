@@ -1,5 +1,5 @@
 ---
-question: Как добраться до Кокуда из Паттайи?
+question: Как добраться до Ко Куда из Паттайи?
 ldjson: yes
 hashtag: kak-dobratsya-do-kokuda-iz-pattaji
 ---
