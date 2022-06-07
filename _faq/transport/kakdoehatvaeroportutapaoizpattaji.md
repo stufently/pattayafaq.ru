@@ -1,5 +1,5 @@
 ---
-question: Как доехать в аэропорт Утапао из Паттайи?
+question: Как доехать на такси в аэропорт Донмуанг, Суварнабхуми, Утопао?
 ldjson: yes
 hashtag: kak-doehat-v-aeroport-utapao-iz-pattaji
 ---
