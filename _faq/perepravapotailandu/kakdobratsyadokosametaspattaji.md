@@ -1,5 +1,5 @@
 ---
-question: Как добраться до Косамета из Паттайи?
+question: Как добраться до Ко Самета из Паттайи?
 ldjson: yes
 hashtag: kak-dobratsya-do-kosameta-iz-pattaji
 ---
