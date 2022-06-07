@@ -3,7 +3,7 @@ question: Как доехать на такси в аэропорт Бангко
 ldjson: yes
 hashtag: kak-doehat-na-taksi-v-aeroport-bangkoka-donmuang
 ---
-### В Паттайе есть сервисы [**Grab такси**](https://www.grab.com/th/en/transport/taxi/), [InDriver](https://indriver.com/ru/city) и [**BOLT**](https://bolt.eu/en/), где вы можете заказать такси быстрои удобно.
+### В Паттайе есть сервисы [**Grab такси**](https://www.grab.com/th/en/transport/taxi/), [InDriver](https://indriver.com/ru/city) и [**BOLT**](https://bolt.eu/en/), где вы можете заказать такси быстро и удобно.
 
 ### Для заказа такси надо сообщить: 
 1. Дату и время прилета (04.12. 10:35 AM )  
