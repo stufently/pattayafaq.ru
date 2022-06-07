@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: kakoe-taksi-est-v-pattaje
 ---
 
-В Паттайе есть сервисы [**Grab такси**](https://www.grab.com/th/en/transport/taxi/), [InDriver](https://indriver.com/ru/city) и [**BOLT**](https://bolt.eu/en/), где вы можете заказать такси быстрои удобно.
+В Паттайе есть сервисы [**Grab такси**](https://www.grab.com/th/en/transport/taxi/), [InDriver](https://indriver.com/ru/city) и [**BOLT**](https://bolt.eu/en/), где вы можете заказать такси быстро и удобно.
 
 Так же можно заказать такси позвонив по телефону
 
