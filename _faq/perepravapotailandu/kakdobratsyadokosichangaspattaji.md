@@ -1,5 +1,5 @@
 ---
-question: Как добраться до Косичанга из Паттайи?
+question: Как добраться до Ко Сичанга из Паттайи?
 ldjson: yes
 hashtag: kak-dobratsya-do-kosichanga-iz-pattaji
 ---
