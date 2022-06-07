@@ -1,5 +1,5 @@
 ---
-question: Детские сады Паттайи
+question: Русские детские сады Паттайи
 ldjson: yes
 hashtag: dedsad-pattay
 ---
