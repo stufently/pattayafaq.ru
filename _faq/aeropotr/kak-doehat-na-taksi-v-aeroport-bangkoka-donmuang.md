@@ -1,5 +1,5 @@
 ---
-question: Как доехать на такси в аэропорт Бангкока Донмуанг?
+question: Как доехать на такси в аэропорт Донмуанг, Суварнабхуми, Утопао?
 ldjson: yes
 hashtag: kak-doehat-na-taksi-v-aeroport-bangkoka-donmuang
 ---
