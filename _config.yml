@@ -23,11 +23,10 @@ author: PumainThailand
 # path: assets\img\clients\creative-market.jpg
 # height: 60 #height in px, defaults to 52px
 
-title: Faq
+title: Большой FAQ по Паттайи Таиланде
 email: pumainthailand.com@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Все что вы хотели узнать о кальянах, сигаретах,
-  одноразовых электронных сигаретых и iqos в Таиланде
+  Все что вы хотели узнать о Паттайи в нашем FAQ
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pattayafaq.ru/" # the base hostname & protocol for your site, e.g. http://example.com
 
